@@ -1,0 +1,17 @@
+{
+	"pep8_ignore": [
+		"W191",
+		"E302",
+		"E501",
+		"E126"
+	],
+	"auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
+	"display_signatures": true,
+	"auto_formatting": false,
+	"autoformat_ignore":[],
+	"autoformat_select":[
+		"E251",
+		"E301",
+		"E26"
+	],
+}
