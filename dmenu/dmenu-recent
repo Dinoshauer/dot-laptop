@@ -9,7 +9,7 @@ FN="ubuntu"
 OPTIONS="-b -fn $FN -nb $NB -nf $NF -sb $SB -sf $SF -i"
 
 DMENU="dmenu -i $OPTIONS"
-TERMI="st -e"
+TERMI="gnome-terminal -e"
 CACHE="$HOME/.dmenu_cache_recent"
 
 touch $CACHE
