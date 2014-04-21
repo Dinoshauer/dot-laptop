@@ -1,6 +1,6 @@
 [user]
     name = Kasper Jacobsen
-    email = k@three65.org
+    email = k@mackwerk.dk
 
 [color]
     branch = always
@@ -87,3 +87,5 @@
     pushInsteadOf = "git://gist.github.com/"
 [url "git://gist.github.com/"]
     insteadOf = "gist:"
+[credential]
+	helper = cache
