@@ -113,7 +113,7 @@ function set_bash_prompt () {
   fi
   # \u er username skift ud med K
   # Set the bash prompt variable.
-  PS1="${PYTHON_VIRTUALENV}${WHITE}K@\h ${BLUE}\w${COLOR_NONE} ${BRANCH}${PROMPT_SYMBOL} "
+  PS1="${PYTHON_VIRTUALENV}${WHITE}\u@\h ${BLUE}\w${COLOR_NONE} ${BRANCH}${PROMPT_SYMBOL} "
 }
 
 # Tell bash to execute this function just before displaying its prompt.
