@@ -127,3 +127,5 @@ source /usr/local/bin/virtualenvwrapper.sh
 alias python='python -b'
 
 export NEST_API_DEBUG=true
+
+export PYTHONDONTWRITEBYTECODE=true
