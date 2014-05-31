@@ -124,6 +124,6 @@ source /usr/local/bin/virtualenvwrapper.sh
 # This loads NVM
 [ -s $HOME/.nvm/nvm.sh ] && . $HOME/.nvm/nvm.sh
 
-alias python='python -b'
+alias python='python -B'
 
 export NEST_API_DEBUG=true
