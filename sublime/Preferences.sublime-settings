@@ -3,12 +3,15 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Anaconda"
+		"Anaconda",
+		"Jedi - Python autocompletion",
+		"Vintage"
 	],
 	"rulers":
 	[
 		80,
 		120
-	]
+	],
+	"hot_exit": false,
+	"remember_open_files": false
 }
