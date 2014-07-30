@@ -1,10 +1,12 @@
 {
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 11,
+	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Anaconda"
+		"3024 Color Scheme",
+		"Jedi - Python autocompletion",
+		"Anaconda",
+		"Vintage"
 	],
 	"rulers":
 	[
