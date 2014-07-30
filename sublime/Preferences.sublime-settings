@@ -12,5 +12,7 @@
 	[
 		80,
 		120
-	]
+	],
+	"hot_exit": false,
+	"remember_open_files": false
 }
