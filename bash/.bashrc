@@ -129,3 +129,9 @@ alias python='python -B'
 export NEST_API_DEBUG=true
 
 export PYTHONDONTWRITEBYTECODE=true
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
+
+#Idea alias
+alias idea='pushd /opt/idea13/ && ./bin/idea.sh && popd'
